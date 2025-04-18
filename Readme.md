@@ -48,4 +48,4 @@ En dispositivos móviles, la navegación (botones de modo oscuro e idioma) se oc
 * **Internacionalización (i18n):** Se implementa un sistema básico de traducción para cambiar el texto de la interfaz entre español e inglés, utilizando un objeto de traducciones en `scripts.js`.
 * **Manejo de Errores:** La aplicación incluye mecanismos básicos para mostrar mensajes de error en caso de problemas al obtener datos de la API.
 
-Este proyecto es un ejemplo de cómo construir una aplicación web interactiva utilizando HTML, CSS y JavaScript, interactuando con una API externa y utilizando funcionalidades del navegador como el almacenamiento local.
+Este proyecto  construye una aplicación web interactiva utilizando HTML, CSS y JavaScript, interactuando con una API externa y utilizando funcionalidades del navegador como el almacenamiento local.
